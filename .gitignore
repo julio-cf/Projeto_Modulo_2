@@ -1,5 +1,6 @@
 # credenciais (NUNCA versionar)
 .env
+.vscode
 
 # dados: grandes e regeneraveis pelo pipeline
 data/processed/*
