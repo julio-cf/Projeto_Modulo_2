@@ -294,4 +294,4 @@ A imagem será exibida automaticamente no GitHub quando o arquivo **`docs/img/sp
 
 ## 12. Vídeo de apresentação e entrega
   
-**Vídeo técnico-executivo (Google Drive):** **[LINK DO VÍDEO]**
+**Vídeo técnico-executivo (Google Drive):** **[\[LINK DO VÍDEO\]](https://drive.google.com/file/d/1VA1EmYEBG84CZOIcD_hgedBieVzsjY2W/view?usp=sharing)**
